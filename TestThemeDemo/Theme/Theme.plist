@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>color</key>
+	<dict>
+		<key>th_textColor</key>
+		<string>#000000</string>
+		<key>th_backgroundColor</key>
+		<string>#FFFFFF</string>
+		<key>th_setTitleColor</key>
+		<string>#000000</string>
+	</dict>
+	<key>image</key>
+	<dict>
+		<key>th_image</key>
+		<string>gchangeteam_tip_select</string>
+	</dict>
+</dict>
+</plist>
